@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+backend/venv/
+
+# Environment variables
+.env
+.env.local
+
+# Flask
+instance/
+.webassets-cache
+
+# Backend generated files
+backend/__pycache__/
+backend/uploads/*
+backend/outputs/*
+
+# Trained models
+backend/model/*.pt
+backend/model/*.pth
+backend/model/*.bin
+backend/model/*.joblib
+backend/model/*.pkl
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Frontend build
+frontend/build/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

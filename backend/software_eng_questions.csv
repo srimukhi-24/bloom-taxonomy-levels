@@ -1,0 +1,67 @@
+question,level
+"List the four fundamental principles of object-oriented programming (OOP).",L1  
+"Define the term 'Software Development Life Cycle (SDLC)'.",L1  
+"Define software engineering.",L1
+"State the three types of software testing (unit, integration, system).",L1  
+"What is the purpose of version control systems like Git?",L1  
+"Mention three common software architecture patterns.",L1   
+"Name two widely used agile methodologies.",L1  
+"Identify the main components of a relational database.",L1  
+"List types of blooms level.",L1
+"Recall the five phases of the waterfall model.",L1  
+"What is software engineering?",L1
+"Explain the difference between black-box and white-box testing.",L2  
+"Write about software engineering.",L2
+"Describe how a hash table works in data structures.",L2    
+"Explain about software engineering.",L2
+"Differentiate between SQL and NoSQL databases.",L2  
+"Give examples of three design patterns and their use cases.",L2  
+"Describe software engineering.",L2
+"Discuss about software engineering.",L2
+"Classify software testing into functional and non-functional types.",L2  
+"Illustrate the software engineering.",L2
+"Classify Blooms taxonomy level.",L2 
+"Calculate the cyclomatic complexity of the given control flow graph.",L3  
+"Demonstrate how to implement a binary search algorithm in code.",L3  
+"Solve a deadlock scenario using resource allocation strategies.",L3  
+"Construct a UML class diagram for an e-commerce system.",L3  
+"Demonstrate about software engineering.",L3
+"Prepare a test case for a login functionality.",L3  
+"Use the Factory Design Pattern to create objects in a sample program.",L3  
+"Implement a REST API endpoint for user authentication.",L3  
+"Apply normalization rules to optimize a given database schema.",L3  
+"Translate user requirements into a use case diagram.",L3  
+"Perform a code review and identify potential bugs.",L3  
+"Analyze the trade-offs between in-memory caching vs. database queries.",L4  
+"Distinguish between synchronous and asynchronous programming models.",L4
+"Contrast sevice and product.",L4  
+"Examine the impact of tight coupling in software modules.",L4  
+"Differentiate between service and product.",L4 
+"Compare service and product.",L4
+"Categorize different types of software maintenance (corrective, adaptive, perfective).",L4 
+"Analyze about software engineering.",L4 
+"Diagram the sequence of events in a distributed transaction.",L4  
+"Distinguish between service and product.",L4
+"Determine the root cause of a memory leak in a Java application.",L4  
+"Critique the scalability of a monolithic vs. microservices approach.",L5  
+"Evaluate the suitability of the Waterfall model for small software projects.",L5
+"Judge whether a NoSQL database is better than SQL for a given use case.",L5  
+"Defend the choice of React over Angular for a dynamic frontend project.",L5  
+"Rate the effectiveness of test-driven development (TDD) in agile teams.",L5  
+"Validate whether a proposed software architecture meets performance requirements.",L5  
+"Recommend improvements for reducing technical debt in a codebase.",L5 
+"Evaluate the role of software engineering.",L5 
+"Justify the use of containers (Docker) over virtual machines (VMs).",L5  
+"Debate the pros and cons of open-source vs. proprietary software.",L5  
+"Verify if a given algorithm meets time complexity constraints.",L5  
+"Design a scalable database schema for a social media platform.",L6  
+"Compose a pseudocode algorithm for a recommendation system.",L6  
+"Develop a microservices-based architecture for an online banking system.",L6  
+"Develop a project on blooms taxonomy.",L6
+"Formulate a test strategy for a real-time chat application.",L6  
+"Propose a DevOps pipeline for automated deployment.",L6 
+"Invent a new design pattern for handling real-time data streams.",L6   
+"Construct a fault-tolerant system design for an e-commerce checkout process.",L6  
+"Produce a technical specification document for a ride-sharing app.",L6  
+"Plan a feature roadmap for a project management tool.",L6   
+"Create a project on blooms taxonomy.",L6
